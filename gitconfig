@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = franciabreu5080@gmail.com
+	name = Fernanda Ngungui
